@@ -1,3 +1,7 @@
+  
+package com.jobs.application;
+
+import com.jobs.domain.AbsStaffMember;
 import com.jobs.domain.Employee;
 
 public class MemberDTO {
